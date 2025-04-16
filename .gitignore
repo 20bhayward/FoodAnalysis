@@ -1,0 +1,6 @@
+/data/*
+/results/ae_full_text_embeddings.parquet
+/results/full_text_embeddings.parquet
+/results/sample_text_embeddings.parquet
+/results/sbert_embeddings.parquet
+/checkpoints/*
